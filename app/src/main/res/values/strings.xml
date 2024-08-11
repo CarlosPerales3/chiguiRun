@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChiguiRun</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="verifyPassword">Verificar Contraseña</string>
+    <string name="forgotPassword">Olvidaste tu contraseña?</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="resetPassword">Enviar Contraseña</string>
+    <string name="invitation">¿Estas listo para entrenar conmigo?</string>
+    <string name="acept">He leído y acepto los</string>
+    <string name="terms">términos y condiciones de uso.</string>
+
+    <string name="empty_email">Introduce un email por favor!!!</string>
+    <string name="invalid_email">mmm parece que el email está mal escrito</string>
+
+    <string name="google">GOOGLE</string>
+    <string name="facebook">FACEBOOK</string>
+
+    <string name="bar_title_terms">Términos y Condiciones de Uso</string>
+    <string name="terms1">Otorgamos al usuario una licencia limitada, no exclusiva y revocable para usar la app de cronómetro y GPS de acuerdo con estos términos y condiciones. Esta licencia permite al usuario utilizar la app únicamente para fines personales y no comerciales. Cualquier uso de la app que no esté expresamente permitido por estos términos está prohibido. Nos reservamos el derecho de revocar esta licencia en cualquier momento si el usuario incumple con estos términos y condiciones.</string>
+    <string name="terms2">El usuario no debe utilizar la app para actividades ilegales, acosar a otros usuarios, o intentar acceder a sistemas no autorizados. Está estrictamente prohibido utilizar la app para enviar spam, realizar actividades fraudulentas, o violar la privacidad de otros usuarios. Cualquier conducta que comprometa la seguridad de la app o de otros usuarios resultará en la suspensión o terminación inmediata de la cuenta del usuario sin previo aviso. Nos reservamos el derecho de tomar las medidas legales necesarias para proteger nuestros derechos y los de nuestros usuarios.</string>
+    <string name="terms3">Todo el contenido y software de la app es propiedad nuestra y está protegido por leyes de derechos de autor y otras leyes de propiedad intelectual. El usuario no tiene derecho a copiar, modificar, distribuir, vender o alquilar ninguna parte de la app o del contenido incluido en ella. No somos responsables por cualquier daño directo, indirecto, incidental o consecuente que resulte del uso o la imposibilidad de uso de la app. Cualquier disputa relacionada con estos términos será resuelta en los tribunales. Nos reservamos el derecho de modificar estos términos en cualquier momento. Los cambios serán efectivos inmediatamente después de su publicación en la app. Para cualquier pregunta o inquietud, por favor contáctanos a carlosperales977@gmail.com.</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Usuarios invalido</string>
+    <string name="invalid_password">La contraseña debe superar los cinco (5) caracteres</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="facebook_app_id">1182359246179807</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">31ae08a9d64f8d67df8c459c28b7c2ad</string>
+
+
+    <string name="bar_title">Chigui Run</string>
+
+
+    <string name="menu_running">Running</string>
+    <string name="menu_record">Historial</string>
+    <string name="menu_becamepremium">Hazte Premium</string>
+    <string name="menu_clearpreferences">Reestablecer Ajustes</string>
+    <string name="menu_signout">Cerrar Sesión</string>
+
+    <string name="level">Nivel</string>
+    <string name="nav_hi">“Corre cuando puedas, camina si es necesario, arrástrate si es imprescindible, pero nunca te rindas.”</string>
+    <string name="user">blabla@wildrunning.com</string>
+
+    <string name="navigation_drawer_open">Menu</string>
+    <string name="navigation_drawer_close">Close</string>
+
+    <string name="bar_title_record">Carreras</string>
+
+    <string name="orderby_dateZA">Fecha (Recientes primero)</string>
+    <string name="orderby_durationZA">Duración (Mayores primero)</string>
+    <string name="orderby_distanceZA">Distancia (Mayores primero)</string>
+    <string name="orderby_avgspeedZA">Vel. Prom. (Mayores primero)</string>
+    <string name="orderby_maxspeedZA">Vel. Máx. (Mayores primero)</string>
+
+    <string name="orderby_dateAZ">Fecha (Antiguos primero)</string>
+    <string name="orderby_durationAZ">Duración (Menores primero)</string>
+    <string name="orderby_distanceAZ">Distancia (Menores primero)</string>
+    <string name="orderby_avgspeedAZ">Vel. Prom. (Menores primero)</string>
+    <string name="orderby_maxspeedAZ">Vel. Máx. (Menores primero)</string>
+
+    <string name="start">RUN</string>
+    <string name="stop">STOP</string>
+    <string name="finish">Finalizar</string>
+    <string name="rounds">Round 1</string>
+    <string name="time_running">Running Time</string>
+    <string name="time_walking">Walking Time</string>
+    <string name="walking_clock">00:00</string>
+    <string name="init_stop_watch_value">00:00:00</string>
+
+    <string name="hard_volumen">Volumen de Música Cañera</string>
+    <string name="soft_volumen">Volumen de Música Tranqui</string>
+    <string name="notification_volumen">Volumen de Notificaciones</string>
+    <string name="hard_position">00:00:00</string>
+    <string name="hard_duration">01:00:00</string>
+    <string name="soft_position">00:00:00</string>
+    <string name="soft_duration">01:00:00</string>
+
+    <string name="PopUpTotalRuns">Carrera: </string>
+    <string name="PopUpTotalDistance">Kms acumulados: </string>
+    <string name="PopUpTotalTime">Total time: </string>
+    <string name="NoDataWarning">No hay datos registrados. Recuerda activar el GPS si deseas información de tu carrera</string>
+
+    <string name="PopUpDurationTitle">DURACION</string>
+    <string name="PopUpChallengeTitle">OBJETIVO</string>
+    <string name="PopUpIntervalTitle">INTERVALOS</string>
+    <string name="PopUpDistanceTitle">DISTANCIA</string>
+    <string name="PopUpAvgSpeedTitle">VELOCIDAD PROMEDIO</string>
+    <string name="PopUpMaxSpeedTitle">VELOCIDAD MÁXIMA</string>
+    <string name="PopUpUnevennessTitle">DESNIVEL</string>
+
+    <string name="textNull"></string>
+    <string name="textNoData">-</string>
+
+    <string name="medalDistanceDescription">Distancia [Record Personal]</string>
+    <string name="medalAvgSpeedDescription">Vel. Máx. [Record Personal]</string>
+    <string name="medalMaxSpeedDescription">Vel. Prom. [Record Personal]</string>
+
+    <!-- GPS -->
+    <string name="alertActivationGPSTitle">Permitir acceso a ubicación</string>
+    <string name="alertActivationGPSDescription">Si desea obtener datos de su carrera como la distancia recorrida y la velocidad debe activar el GPS</string>
+    <string name="ignoreActivationGPS">Ignorar</string>
+    <string name="aceptActivationGPS">Activar</string>
+
+    <string name="alertClearPreferencesTitle">¿Quieres borrar tus preferencias de carrera?</string>
+    <string name="alertClearPreferencesDescription">Borraremos los ajustes de volumen y carrera (modo y tiempo de intervalos) de tu útlima carrera, vamos que tampoco pasa na</string>
+
+
+    <string name="alertSignOutTitle">¿Quieres cerrar sesión?</string>
+    <string name="alertSignOutTDescription">Puedes volver cuando lo desees :)</string>
+
+
+
+</resources>

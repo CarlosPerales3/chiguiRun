@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "345379380854",
+    "project_id": "chiguirun",
+    "storage_bucket": "chiguirun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345379380854:android:7beb60dc353e5d4cba8957",
+        "android_client_info": {
+          "package_name": "com.perales.chiguirun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345379380854-anemc04ip9g80btogeh8k0kv30lrg4jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.perales.chiguirun",
+            "certificate_hash": "abe46690c861751ac8b661a3389a814668329859"
+          }
+        },
+        {
+          "client_id": "345379380854-ad6pjgij09t87glc66kf2epejoc0bjtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqvO6QYmDe3ZT2xCduXscz4RAZCosLtPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345379380854-ad6pjgij09t87glc66kf2epejoc0bjtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
